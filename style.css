@@ -1,0 +1,58 @@
+body {
+	font-family: 'Noto Sans', sans-serif;
+	background-color: white;
+}
+
+header {
+	text-align: center;
+	width: auto;
+	border:  1px solid black;
+	padding: auto;
+	margin: auto;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	background-color: #ffffff;
+}
+
+nav {
+	border:  1px solid black;
+	padding: auto;
+	margin: auto;
+	margin-bottom: 17.5px;
+	background-color: lightseagreen;
+}
+
+h1 {
+	font-weight: 800;
+}
+
+#centered {
+	width: 95%;
+	margin-top: 0%;
+	background-color: #fffff;
+	margin: 2.5%;
+	margin-top: 0%;
+}
+
+a {
+	text-decoration: none;
+	color: ghostwhite;
+}
+
+a:hover {
+	text-decoration: none;
+	color: grey;
+}
+
+a:active {
+	text-decoration: none;
+	color: black;
+}
+
+#sidebar {
+	
+}
+
+.archive {
+	text-indent: 20px;
+}
